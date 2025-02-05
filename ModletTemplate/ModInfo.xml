@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
 	<ModInfo>
-		<Name value="Modlet Template"/>
-		<Description value="Description."/>
-		<Author value="MaxFox Gaming"/>
+		<Name value="Magic Storage Modlet"/>
+		<Description value="A storage mod emulating the Magic Storage mod from Terraria."/>
+		<Author value="Dvorth"/>
 		<Version value="1.0"/>
 	</ModInfo>
 </xml>
