@@ -1,10 +1,10 @@
 <mod>
 	<info>
-		<author>MaxFox Gaming</author>
-		<name>Mod Template</name>
-		<description>Description.</description>
+		<author>DVorth</author>
+		<name>Magic Storage Modlet</name>
+		<description>A storage mod emulating the Magic Storage mod from Terraria.</description>
 		<mod_version>1.0</mod_version>
-		<game_version>18.4</game_version>
+		<game_version>1.2</game_version>
 		<launcher_version>0.7.3</launcher_version>
 	</info>
 </mod>
